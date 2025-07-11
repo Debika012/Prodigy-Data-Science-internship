@@ -38,7 +38,7 @@ This repository contains the projects I completed during the *Prodigy Infotech D
 
 - # Task 3: Decision Tree Classifier – Bank Marketing
 
-This project is part of the Prodigy InfoTech Data Science Internship.
+This project is part of the Prodigy InfoTech Data Science Internship
 
 ## 📌 Objective
 
