@@ -63,6 +63,40 @@ Build a Decision Tree model to predict whether a customer will subscribe to a te
 4. Build Decision Tree Classifier
 5. Evaluate with accuracy, confusion matrix, and classification report
 
+# Task 4: Sentiment Analysis – Twitter Dataset
+
+This is Task 4 of the Data Science Internship at Prodigy InfoTech.
+
+## 📌 Objective
+
+Perform sentiment analysis on tweets to understand public opinion toward different entities, using the Twitter Entity Sentiment Dataset from Kaggle.
+
+## 📁 Dataset
+
+- **Source**: [Twitter Entity Sentiment Dataset](https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis)
+- **Format**: CSV (`twitter_training.csv`)
+
+## 🛠️ Tools & Libraries
+
+- Python, pandas
+- NLTK (VADER Sentiment Analyzer)
+- seaborn, matplotlib
+- wordcloud
+
+## ✅ Workflow
+
+1. Load and clean the dataset
+2. Apply VADER sentiment analysis
+3. Classify tweets as positive, negative, or neutral
+4. Visualize sentiment distribution and word clouds
+
+## 📊 Outputs
+
+- Bar plot of sentiment distribution
+- Word cloud for positive/negative tweets
+- Optional: sentiment comparison by entity
+
+
 ---
 
 ## 📌 About the Internship
