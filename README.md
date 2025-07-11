@@ -36,6 +36,33 @@ This repository contains the projects I completed during the *Prodigy Infotech D
 - seaborn
 - Jupyter Notebook
 
+- # Task 3: Decision Tree Classifier – Bank Marketing
+
+This project is part of the Prodigy InfoTech Data Science Internship.
+
+## 📌 Objective
+
+Build a Decision Tree model to predict whether a customer will subscribe to a term deposit, using the Bank Marketing dataset from the UCI Repository.
+
+## 📁 Dataset
+
+- **Source**: [UCI Bank Marketing Dataset](https://archive.ics.uci.edu/ml/datasets/Bank+Marketing)
+- **File**: `bank-full.csv`
+
+## 🛠️ Tools Used
+
+- Python, pandas, NumPy
+- scikit-learn
+- matplotlib, seaborn
+
+## ✅ Workflow
+
+1. Data cleaning & encoding
+2. Feature-target split
+3. Train-test split
+4. Build Decision Tree Classifier
+5. Evaluate with accuracy, confusion matrix, and classification report
+
 ---
 
 ## 📌 About the Internship
